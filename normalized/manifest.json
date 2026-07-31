@@ -1,0 +1,139 @@
+{
+  "coordinate_system": {
+    "width": 1920,
+    "height": 1080,
+    "strategy": "页面底图统一缩放到 1920×1080；局部区域保持相同横向缩放比例"
+  },
+  "files": [
+    {
+      "source": "010.jpeg",
+      "output": "010.png",
+      "source_size": [
+        2276,
+        1280
+      ],
+      "output_size": [
+        1920,
+        1080
+      ],
+      "sha256": "5e3b4eb7adf78bac2e74105ae7aa916bbfa98e890c8bbff44d0d4263ab88eac6"
+    },
+    {
+      "source": "011.png",
+      "output": "011.png",
+      "source_size": [
+        3556,
+        2000
+      ],
+      "output_size": [
+        1920,
+        1080
+      ],
+      "sha256": "60db783b9d6bed05b603d73bafde980819092ae477679b99e680f4d84b77bccf"
+    },
+    {
+      "source": "012.jpeg",
+      "output": "012.png",
+      "source_size": [
+        2276,
+        1280
+      ],
+      "output_size": [
+        1920,
+        1080
+      ],
+      "sha256": "0d8d8e35949572d2616268d0f82f04d848b8e01b5f5eda9b2fe8cfcd06732ede"
+    },
+    {
+      "source": "013.jpeg",
+      "output": "013.png",
+      "source_size": [
+        2276,
+        1280
+      ],
+      "output_size": [
+        1920,
+        1080
+      ],
+      "sha256": "c8671c64946aeef929d96d35a41cd6b5b4a68ad8d9d9a7e1694bed298773878f"
+    },
+    {
+      "source": "014.png",
+      "output": "014.png",
+      "source_size": [
+        5760,
+        3240
+      ],
+      "output_size": [
+        1920,
+        1080
+      ],
+      "sha256": "a64e552bf0eb5981084f65a047282a1b753aa6f66cf0cfb157191d9e44efb578"
+    },
+    {
+      "source": "015.png",
+      "output": "015.png",
+      "source_size": [
+        1267,
+        713
+      ],
+      "output_size": [
+        1920,
+        1080
+      ],
+      "sha256": "e66c261cccbf0b88b96253eaafe2bc0f5233e1cee78e99733ea70a942acb0deb"
+    },
+    {
+      "source": "016.png",
+      "output": "016.png",
+      "source_size": [
+        1265,
+        711
+      ],
+      "output_size": [
+        1920,
+        1080
+      ],
+      "sha256": "a13b34b48efb62edf4087a3112835f1163d4ec49adf0248d6c75cc09c51782d1"
+    },
+    {
+      "source": "017.png",
+      "output": "017.png",
+      "source_size": [
+        3556,
+        2000
+      ],
+      "output_size": [
+        1920,
+        1080
+      ],
+      "sha256": "af348da6b8cefcdcb413bcb0e26f01600cb4829c894bd68ed09bfeddfe3aa4c8"
+    },
+    {
+      "source": "018.png",
+      "output": "018.png",
+      "source_size": [
+        3556,
+        302
+      ],
+      "output_size": [
+        1920,
+        163
+      ],
+      "sha256": "efdda1022dbfef6e49ef19ab96847d37f5e64edd20e1cc8e7bdf7427f2318fc7"
+    },
+    {
+      "source": "能源与任务管理系统-地图总览.png",
+      "output": "019.png",
+      "source_size": [
+        5760,
+        3240
+      ],
+      "output_size": [
+        1920,
+        1080
+      ],
+      "sha256": "f7a27a5aff767e8e5d7e8c99d2bf6d4e705d021a3aec607fbe19b62607327fef"
+    }
+  ]
+}
